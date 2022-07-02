@@ -1,0 +1,15 @@
+Tiempo;Temperatura;Humedad;Viento;Juega
+Soleado;Alta;Alta;No;N
+Soleado;Alta;Alta;Si;N
+Nubloso;Alta;Alta;No;P
+Lluvioso;Media;Alta;No;P
+Lluvioso;Media;Normal;No;P
+Lluvioso;Baja;Normal;Si;N
+Nubloso;Baja;Normal;Si;P
+Soleado;Media;Alta;No;N
+Soleado;Baja;Normal;No;P
+Lluvioso;Media;Normal;No;P
+Soleado;Media;Normal;Si;P
+Nubloso;Media;Alta;Si;P
+Nubloso;Alta;Normal;No;P
+Lluvioso;Media;Alta;Si;N
