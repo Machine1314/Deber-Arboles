@@ -1,4 +1,4 @@
 Paciente,Presion,Azucar,Indice,Alergia,Otras,Administrar
-1,Alta,Alto,Alto,No,No,Si
-2,Alta,Alto,Alto,Si,No,Si
-3,Baja,Alto,Bajo,No,No,Si
+1,Alta,Alto,Alto,No,No,0
+2,Alta,Alto,Alto,Si,No,0
+3,Baja,Alto,Bajo,No,No,0
