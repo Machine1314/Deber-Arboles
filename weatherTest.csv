@@ -2,3 +2,5 @@ Ejemplo,Tiempo,Temperatura,Humedad,Viento,Juega
 1,Soleado,Alta,Alta,No,0
 2,Soleado,Alta,Alta,Si,0
 3,Nubloso,Alta,Alta,No,0
+4,Lluvioso,Media,Alta,No,0
+5,Lluvioso,Media,Normal,No,0
